@@ -1,0 +1,16 @@
+{
+  "formatVersion": 1,
+  "apiVersion": "1.1",
+  "id": "community.trident",
+  "version": "1.0.0",
+  "name": "铁盆三叉戟",
+  "author": "大肥鱼社区示例",
+  "description": "添加一把独立MCP，三枚9伤泡泡，穿透两个目标。启用后在练习MCP列表选择，不修改原版武器。",
+  "gameVersion": "2.0.0-preview.5",
+  "dependencies": {},
+  "conflicts": [],
+  "patches": [],
+  "weapons": [
+    {"id": "trident", "templateId": "mcp_bubble", "displayName": "铁盆三叉戟", "parameters": {"damage": 9, "pellets": 3, "spreadRadians": 0.32, "interval": 0.45, "maxHits": 2}}
+  ]
+}

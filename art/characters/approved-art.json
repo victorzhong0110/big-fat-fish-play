@@ -1,0 +1,86 @@
+[
+  {
+    "name": "deepseek",
+    "file": "deepseek.png",
+    "reference": "docs/design-v2/art-drafts/deepseek-no-basin-draft.png",
+    "blobSha": "d82b5970be55049305bbafb33fbb7f5272d3295a",
+    "size": 903774
+  },
+  {
+    "name": "grok",
+    "file": "grok.png",
+    "reference": "docs/design-v2/art-drafts/green-icon-draft.png",
+    "blobSha": "a2c84b91035e5db77a99a53a7f113b7daa464fd9",
+    "size": 506895
+  },
+  {
+    "name": "claude",
+    "file": "claude.svg",
+    "reference": "docs/design-v2/art-drafts/claude-pixel-reconstruction.svg",
+    "blobSha": "68008b77ca4ebfa2b5ad911d6d3d49a0993d26e2",
+    "size": 440
+  },
+  {
+    "name": "codex",
+    "file": "codex.png",
+    "reference": "docs/design-v2/art-drafts/codex-close-draft.png",
+    "blobSha": "659b3e3cda7148c780585b342b7cc28b4c93a84e",
+    "size": 812110
+  },
+  {
+    "name": "dewey",
+    "file": "dewey.png",
+    "reference": "docs/design-v2/art-drafts/dewey-draft.png",
+    "blobSha": "2d9c4e887a125b82d606c1d4ce835a6ccb459e57",
+    "size": 765076
+  },
+  {
+    "name": "fireball",
+    "file": "fireball.png",
+    "reference": "docs/design-v2/art-drafts/fireball-draft.png",
+    "blobSha": "7490ab68d096b25737be5e887d7a31fbf1e212f8",
+    "size": 599042
+  },
+  {
+    "name": "hoots",
+    "file": "hoots.png",
+    "reference": "docs/design-v2/art-drafts/hoots-draft.png",
+    "blobSha": "b008ddf171e45ec1a4b6a7c17dbb0f38e098ef72",
+    "size": 1059732
+  },
+  {
+    "name": "rocky",
+    "file": "rocky.png",
+    "reference": "docs/design-v2/art-drafts/rocky-draft.png",
+    "blobSha": "453e6613a1deeaae9463e6ad29e0f937c6c32291",
+    "size": 742594
+  },
+  {
+    "name": "seedy",
+    "file": "seedy.png",
+    "reference": "docs/design-v2/art-drafts/seedy-draft.png",
+    "blobSha": "b708012894efffa84b277aa1a56e1930355fb868",
+    "size": 633115
+  },
+  {
+    "name": "stacky",
+    "file": "stacky.png",
+    "reference": "docs/design-v2/art-drafts/stacky-draft.png",
+    "blobSha": "c310870534b83bca9eea3de45b97e4177c611541",
+    "size": 612254
+  },
+  {
+    "name": "bsod",
+    "file": "bsod.png",
+    "reference": "docs/design-v2/art-drafts/bsod-draft.png",
+    "blobSha": "9175eed391480313bc71fc28f324a049add3044a",
+    "size": 680902
+  },
+  {
+    "name": "null-signal",
+    "file": "null-signal.png",
+    "reference": "docs/design-v2/art-drafts/null-signal-draft.png",
+    "blobSha": "ef47fbf865cfe16721dd6b9fe29db7334808de28",
+    "size": 498031
+  }
+]

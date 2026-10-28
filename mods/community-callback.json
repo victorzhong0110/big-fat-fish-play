@@ -1,0 +1,14 @@
+{
+  "formatVersion": 1,
+  "apiVersion": "1.2",
+  "id": "community.callback",
+  "version": "1.0.0",
+  "name": "盆来！",
+  "author": "大肥鱼社区示例",
+  "description": "新增独立回旋MCP：更快、更短的回旋轨迹，每程最多命中4个不同目标。",
+  "gameVersion": "2.0.0-preview.5",
+  "dependencies": {},
+  "conflicts": [],
+  "patches": [],
+  "weapons": [{"id":"basin","templateId":"mcp_return","displayName":"盆来！","parameters":{"damage":14,"projectileSpeed":500,"range":380,"maxHits":4}}]
+}

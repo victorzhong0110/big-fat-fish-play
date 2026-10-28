@@ -1,0 +1,15 @@
+{
+  "formatVersion": 1,
+  "apiVersion": "1.0",
+  "id": "community.bubbles",
+  "version": "1.0.0",
+  "name": "一盆大泡泡",
+  "author": "大肥鱼社区示例",
+  "description": "将泡泡接口变成大泡泡：半径14，伤害24，间隔0.6秒。仅影响Free练习。",
+  "gameVersion": "2.0.0-preview.5",
+  "dependencies": {},
+  "conflicts": [],
+  "patches": [
+    { "id": "mcp_bubble", "displayName": "一盆大泡泡", "parameters": { "damage": 24, "interval": 0.6, "projectileRadius": 14 } }
+  ]
+}
